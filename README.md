@@ -31,9 +31,9 @@
 
 Метрики модели:
 
-Accuracy: 25.20%
-Precision: 25.62%
-Recall: 25.20%
+Accuracy: 94.40%
+Precision: 95.66%
+Recall: 94.40%
 
 Confusion matrix:
 
